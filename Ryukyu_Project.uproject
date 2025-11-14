@@ -21,6 +21,10 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
+		},
+		{
+			"Name": "Fab",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
